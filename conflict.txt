@@ -6,5 +6,12 @@ confilct nef
 dong thu 3
 
 dong thu 2 may tinh 2
+<<<<<<< HEAD
  
 dong thu 3 mnay tinh 1
+=======
+
+
+dong 3 mt 2
+
+

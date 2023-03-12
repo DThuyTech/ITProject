@@ -16,4 +16,8 @@ hello
 
 nhanh main
 
+
 nhanh main vua ghi
+
+nahnh C vua ghi
+

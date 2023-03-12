@@ -1,7 +1,7 @@
 
 
 dujng git gui
-vua moi thay doi day lam gi nhau
+
 dua len stage chua dua len server
 
 noid ung moi o nahnh main

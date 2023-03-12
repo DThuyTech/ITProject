@@ -11,3 +11,6 @@ nvb muon lam
 nahnh vien C da o day
 
 tu nhanh main sau
+
+
+tu nahnh C ghi
